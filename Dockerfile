@@ -1,5 +1,5 @@
-# 베이스 이미지 설정
-FROM node:12.18.1
+# 베이스 이미지 설정 안녕하세요
+FROM node:12.18.1 
 
 # 관리하는 사람
 MAINTAINER DaEunShim
